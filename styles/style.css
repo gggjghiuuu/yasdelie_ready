@@ -323,3 +323,216 @@
     width: 22px;
     height:20px;
 }
+
+.donate {
+    width: 420px;
+    margin: auto;
+  }
+  
+  .donate-title {
+    font-size: 3em;
+    font-weight: 700;
+    color: #2c3e50;
+    margin-left: 30px;
+    margin-bottom: 15px;
+  }
+  
+  .donate-subtitle {
+    font-size: 24px;
+    margin-top: 0px;
+  }
+  
+  .vector {
+    border: 3px solid #2c3e50;
+    width: 280px;
+    margin-left: 70px;
+  }
+  
+  .donate-input {
+    width: 380px;
+    height: 40px;
+    border-radius: 10px;
+    border: 3px solid #e4e4f1;
+    cursor: text;
+    font-size: 15px;
+  }
+  
+  .donate-subtitle-p {
+    color: #4d4d64;
+  }
+  
+  .donate-button {
+    width: 100%;
+    height: 52px;
+    background: #702ff4;
+    border: none;
+    margin-top: 20px;
+    border-radius: 10px;
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    transition: 0.2s;
+    cursor: pointer;
+  }
+  
+  .donate-button:hover {
+    background: #4a0bcb;
+  }
+  
+  .donate-button:active {
+    background: #702ff4;
+    border: none;
+  }
+  
+  .borders{
+    margin-top: 30px;
+    padding: 14px 14px 14px 14px;
+    box-shadow: 0 0 2px 0 rgba(0, 8, 50, 0.04), 0 2px 4px 0 rgba(0, 8, 50, 0.04), 0 3px 12px 1px rgba(0, 8, 50, 0.08);
+    border-radius: 10px;
+  }
+  
+  .anketa{
+    margin: auto;
+    width: 500px;
+    margin-top: 150px;
+  }
+  
+  .anketa-title{
+    font-size: 3em;
+    font-weight: 700;
+    color: #2c3e50;
+    margin-left: 50px;
+    margin-bottom: 15px;
+  }
+  
+  .vector1{
+    border: 3px solid #2c3e50;
+    width: 280px;
+    margin-left: 100px;
+  }
+  
+  .inputss{
+    margin-top: 30px;
+  }
+  
+  .anketa-input{
+    width: 470px;
+    height: 45px;
+    padding: 10px 15px;
+    font-size: 15px;
+    line-height: 1.42;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
+    border-left: none;
+    border-right: none;
+    color: #ACB6CC;
+    cursor: text;
+  }
+  
+  .anketa-button{
+    background: #18BC9C;
+    border: none;
+    cursor: pointer;
+    width: 151px;
+    height: 65px;
+    margin-top: 30px;
+    border-radius: 10px;
+    font-size: 16px;
+    color: white;
+  }
+  
+  .borders-for-button{
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    margin-top: 150px;
+  }
+  
+  .anketa-politics{
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 560px;
+    color: #597ea2;
+  }
+  
+  .anketa-politics-a{
+    color: #EA413C;
+    text-decoration: none;
+  }
+  
+  .anketa-politics-a:hover{
+    text-decoration: underline;
+  }
+  
+  .footer{
+    background: #2C3E50;
+    width: 100%;
+    height: 360px;
+    color: white;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: flex;
+  }
+  
+  .footer-info{
+    height: 360px;
+    width: 380px;
+    text-align: center;
+    margin: auto;
+    margin-top: 21px;
+  }
+  
+  .title-upper{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 26px;
+  }
+  
+  .footer-logo{
+    width: 30px;
+    height: 30px;
+    border: 1px solid white;
+    border: 2px solid white;
+    border-radius: 26px;
+    padding: 10px;
+    margin-bottom: -50px;
+    margin-left: 10px;
+  
+  }
+  
+  .ppp{
+    margin-top: 3px;
+  }
+  
+  .logosss{
+    display: flex;
+    height: 50px;
+    margin-left: 60px;
+  }
+  
+  .footer-info-p3{
+    text-align: center;
+    font-size: 20px;
+  }
+  
+  .footer-avtor{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background: #233140;
+    font-size: 20px;
+    color: white;
+    padding-top: 10px;
+  }
+  
+  .footer-avtor-p{
+    margin-top: 37px;
+  }
+  
+  .footer-avtor-a{
+    color: #EA413C;
+    text-decoration: none;
+  }
+  
+  .footer-avtor-a:hover{
+    text-decoration: underline;
+  }
